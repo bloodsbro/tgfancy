@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GochoMugo/tgfancy.git"
+    "url": "git+https://github.com/bloodsbro/tgfancy.git"
   },
   "keywords": [
     "telegram",
@@ -20,9 +20,9 @@
   "author": "GochoMugo (www.gmugo.in)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GochoMugo/tgfancy/issues"
+    "url": "https://github.com/bloodsbro/tgfancy/issues"
   },
-  "homepage": "https://github.com/GochoMugo/tgfancy#readme",
+  "homepage": "https://github.com/bloodsbro/tgfancy#readme",
   "engines": {
     "node": ">=6"
   },
@@ -31,7 +31,7 @@
     "debug": "^3.1.0",
     "lodash": "^4.17.4",
     "node-emoji": "^1.8.1",
-    "node-telegram-bot-api": "^0.30.0",
+    "node-telegram-bot-api": "^0.61.0",
     "tg-resolve": "^1.3.1",
     "ws": "^3.3.3"
   },
